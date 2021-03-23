@@ -1,3 +1,5 @@
+Copy This:
+
 https://raw.githubusercontent.com/berilino/pihole-block-list/main/AdguardMobileSpyware.txt
 https://raw.githubusercontent.com/berilino/pihole-block-list/main/CoinBlockerLists.txt
 https://raw.githubusercontent.com/berilino/pihole-block-list/main/CoinBlockerLists2.txt
